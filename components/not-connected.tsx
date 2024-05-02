@@ -5,7 +5,7 @@ import {
   CardFooter,
   CardHeader,
   CardTitle,
-} from "../ui/card";
+} from "./card";
 
 export default function NotConnectedCard() {
   return (
