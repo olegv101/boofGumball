@@ -12,7 +12,6 @@
     "@hookform/resolvers": "^3.3.4",
     "@radix-ui/react-label": "^2.0.2",
     "@radix-ui/react-slot": "^1.0.2",
-    "@rainbow-me/rainbowkit": "workspace:*",
     "@tanstack/react-query": "^5.28.4",
     "class-variance-authority": "^0.7.0",
     "clsx": "2.1.0",
